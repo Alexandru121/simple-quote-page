@@ -1,0 +1,16 @@
+
+ .wrapper {
+   background: cover;
+   display:table;
+   text-align: center;
+ }
+
+ .quote {
+   color:black;
+   font-size: 1rem;
+   font-family: 'Julius', 'Crimson', sans-serif;
+ }
+
+.author {
+  font-size:.800rem;
+}
